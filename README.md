@@ -64,3 +64,32 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+#Register
+![new register](https://github.com/user-attachments/assets/e8a213fd-6605-4682-93f3-3910d02f400f)
+#Login
+![new Login](https://github.com/user-attachments/assets/16a582b8-0879-4821-9fdf-21f9b08b5580)
+
+
+
+Praktikum api token admin bisa melakukan semua kegiatan
+#GET
+![Get SemuaData](https://github.com/user-attachments/assets/9a12ab59-cb72-442b-8eb4-825735ffd130)
+#Post
+![Post Mahasiswas1](https://github.com/user-attachments/assets/9dd6cb96-007b-409a-9163-91fa097d3bf6)
+#Delete
+![Delete Berhasil1](https://github.com/user-attachments/assets/e7aafb7a-5d7c-4398-934d-e6de18efee51)
+
+User hanya bisa Get all saja
+#GET
+![User Bisa Get](https://github.com/user-attachments/assets/79bd8bcb-b06d-4f61-9336-db7b562865a5)
+#POST
+![User gagal POST](https://github.com/user-attachments/assets/5e0ff979-8604-4fc5-8c2b-88a580100a94)
+#DELETE
+![User Gagal Delete ](https://github.com/user-attachments/assets/d6246b65-4bf7-4b47-93f8-bd6f961d19ee)
+
+
+
+
+
+
